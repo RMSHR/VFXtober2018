@@ -4,6 +4,14 @@
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+Assets/AmplifyShaderEditor*
+Assets/Unity Technologies*
+Assets/Raw Mocap Data*
+Assets/TextMesh Pro*
+Assets/MidiJack*
+Assets/OscJack*
+Assets/Reaktion*
+Assets/PostProcessing*
 
 # Visual Studio cache directory
 .vs/

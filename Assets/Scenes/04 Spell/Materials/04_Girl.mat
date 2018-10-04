@@ -20,6 +20,9 @@ Material:
     m_TexEnvs: []
     m_Floats:
     - _Emission: 2
+    - _Phase: 0.004
+    - _TimeScale: 1
+    - _WorldScale: 2
     - __dirty: 0
     m_Colors:
     - _Color: {r: 0, g: 0.5730131, b: 1, a: 0}

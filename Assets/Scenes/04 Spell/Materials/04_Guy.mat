@@ -34,8 +34,8 @@ Material:
     - _OpacityOffset: 0.02
     - __dirty: 0
     - _maskBorder: 0.5
-    - _maskRadius: 0
+    - _maskRadius: 1.6865
     m_Colors:
     - _Albedo: {r: 0.245283, g: 0.245283, b: 0.245283, a: 0}
     - _EmissionColor: {r: 1, g: 0.3475747, b: 0, a: 0}
-    - _maskPosition: {r: 0, g: 0.939, b: -0.11, a: 0}
+    - _maskPosition: {r: 0, g: 0.762, b: 0.834, a: 0}

@@ -13,7 +13,7 @@ public class ManualDuplication : MonoBehaviour {
         for(int i=0; i<iterations; i++)
         {
             Vector3 pos = transform.position + offset * i;
-            Instantiate(gameObject, pos, Quaternion.identity);
+            Instantiate(gameObject, pos, transform.rotation);
         }
     }
 }

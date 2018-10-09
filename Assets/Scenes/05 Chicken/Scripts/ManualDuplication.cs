@@ -12,7 +12,7 @@ public class ManualDuplication : MonoBehaviour {
     {
         for(int i=0; i<iterations; i++)
         {
-            Vector3 pos = transform.position + offset * i;
+            Vector3 pos = transform.position + offset * (i+1);
             Instantiate(gameObject, pos, transform.rotation);
         }
     }

@@ -24,7 +24,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _Emission: 2
-    - __dirty: 0
+    - __dirty: 1
     m_Colors:
     - _Color: {r: 0.8980392, g: 0.42745098, b: 0.42745098, a: 1}
     - _ColorA: {r: 0.3270737, g: 0.35036066, b: 0.4716981, a: 0}

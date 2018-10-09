@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 09_Test
+  m_Shader: {fileID: 4800000, guid: e231378d369c34149a681fb34f1d8d66, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - _ASEOutlineWidth: 1
+    - _EdgeLength: 15
+    - _OffsetIntensity: 0
+    - _OffsetScale: 71.92
+    - _TessPhongStrength: 0.5
+    - _Tesselation: 100
+    - _TransAmbient: 0.247
+    - _TransDirect: 1
+    - _TransNormalDistortion: 0.074
+    - _TransScattering: 1
+    - _TransShadow: 0.904
+    - _Translucency: 1
+    - _Transluency: 1
+    - _Transmission: 1
+    - __dirty: 0
+    m_Colors:
+    - _ASEOutlineColor: {r: 1, g: 0, b: 0, a: 1}
+    - _Albedo: {r: 0.8490566, g: 0.8490566, b: 0.8490566, a: 0}
+    - _ColorTransluency: {r: 1, g: 0, b: 0, a: 0}
+    - _ColorTransmission: {r: 0, g: 0.63857055, b: 1, a: 0}
+    - _Tesselation: {r: 10, g: 10, b: 10, a: 10}

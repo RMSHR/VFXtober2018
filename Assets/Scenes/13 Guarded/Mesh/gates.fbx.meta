@@ -1,35 +1,14 @@
 fileFormatVersion: 2
-guid: a37128f233db6c74394dafc815ddef68
+guid: 51fd6367675c91c43b22e685ff64466e
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
-    100002: BezierCircle
-    100004: Cylinder
-    100006: BezierCircle.001
-    100008: Cube
     400000: //RootNode
-    400002: BezierCircle
-    400004: Cylinder
-    400006: BezierCircle.001
-    400008: Cube
     2100000: No Name
     2300000: //RootNode
-    2300002: BezierCircle
-    2300004: Cylinder
-    2300006: BezierCircle.001
-    2300008: Cube
     3300000: //RootNode
-    3300002: BezierCircle
-    3300004: Cylinder
-    3300006: BezierCircle.001
-    3300008: Cube
-    4300000: Torus
-    4300002: BezierCircle
-    4300004: Cylinder
-    4300006: BezierCircle.001
-    4300008: Cube
-    2186277476908879412: ImportLogs
+    4300000: Cube
   externalObjects: {}
   materials:
     importMaterials: 1

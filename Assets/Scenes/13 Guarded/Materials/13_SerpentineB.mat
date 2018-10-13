@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 13_SerpentineB
+  m_Shader: {fileID: 4800000, guid: fc1fb3a21c411744aa693e5fc10c9595, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Mask:
+        m_Texture: {fileID: 2800000, guid: 08078776e4c022846a17584dfba60569, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _LineHeight: 0.02
+    - _LineIntesity: 0.5
+    - _LineLength: 0.32
+    - _LineNumber: 5
+    - _PointLength: 0.001
+    - _PointOffset: 0
+    - __dirty: 0
+    - _emission: 3
+    - _length: 1
+    - _m: 0
+    - _polarMul: 2
+    - _polarSub: 0.5
+    - _r: 0
+    - _redLineHeight: 0.1
+    - _redLineIntensity: 0.2
+    - _redLineLength: 0.33
+    - _redLineNumber: 7
+    - _redLineOffset: 0.27
+    - _redLinePos: 0.32
+    - _redPointHeight: 0.1
+    - _redPointLength: 0.002
+    - _redPointOffset: 0
+    - _rotation: 0
+    - _yellowLineHeight: 0.01
+    - _yellowLineIntensity: 0.2
+    - _yellowLineLength: 0.32
+    - _yellowLineNumber: 8
+    - _yellowLineOffset: 0.47
+    - _yellowPointHeight: 0.03
+    - _yellowPointLength: 0.004
+    - _yellowPointOffset: -0
+    m_Colors:
+    - _Albedo: {r: 0.084905684, g: 0.084905684, b: 0.084905684, a: 0}
+    - _Color0: {r: 1, g: 0.06119459, b: 0, a: 0}
+    - _ColorA: {r: 1, g: 0.06119459, b: 0, a: 0}
+    - _ColorB: {r: 1, g: 0.8081141, b: 0, a: 0}
+    - _Offset: {r: 0, g: -0.02, b: 0, a: 0}
+    - _Tiling: {r: 0, g: 1, b: 0, a: 0}

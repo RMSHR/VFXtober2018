@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 14_ClockLight 1
+  m_Shader: {fileID: 4800000, guid: 2b411f84a21252d459713f6fb29548a3, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - _Emission: 4
+    - _WorldOffset: 2
+    - _WorldScale: 0.05
+    - __dirty: 0
+    m_Colors:
+    - _BaseColor: {r: 1, g: 0, b: 0, a: 0}

@@ -32,7 +32,7 @@ Material:
     - _WaveLength: 5
     - _WaveOffset: -0.11321044
     - _WavePower: 1
-    - __dirty: 0
+    - __dirty: 1
     - _vertexOffsetForce: 0.004
     m_Colors:
     - _Color0: {r: 1, g: 0, b: 0, a: 0}

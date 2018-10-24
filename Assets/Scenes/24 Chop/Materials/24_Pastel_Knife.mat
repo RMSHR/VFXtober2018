@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 24_Pastel_Knife
+  m_Shader: {fileID: 4800000, guid: b0c3794fefde19747bbf551593875f84, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _WorldSize: 1
+    - __dirty: 0
+    - _worldOffset: 1
+    m_Colors:
+    - _Color0: {r: 1, g: 0.562755, b: 0.48235297, a: 0}
+    - _Color1: {r: 1, g: 0.9333334, b: 0.69803923, a: 0}

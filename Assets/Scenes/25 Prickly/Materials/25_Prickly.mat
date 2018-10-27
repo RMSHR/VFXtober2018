@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 25_Prickly
+  m_Shader: {fileID: 4800000, guid: 995f07af5f4f9f2449555611b92613ca, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Emissioin: 1
+    - _RandomIntensity: 0.002
+    - _WorldOffset: 0
+    - _WorldSize: 0.2
+    - __dirty: 1
+    - _hueOffset: 0
+    - _hueSize: 0.1
+    - _randomFactor: 512
+    - _randomSpeed: 1
+    - _smallWaveFrequency: 1
+    - _smallWaveTime: 1
+    - _smallwaveIntensity: 0.002
+    - _voEffect: 0
+    - _voOffset: 0
+    - _voParabole: 0.01
+    - _voSize: 0.1
+    m_Colors:
+    - _Albedo: {r: 0.2169811, g: 0.2169811, b: 0.2169811, a: 0}
+    - _EmissionColor: {r: 0, g: 0.8187747, b: 1, a: 0}
+    - _NoiseSize: {r: 0.1, g: 0.1, b: 0, a: 0}
+    - _smallWaveDirection: {r: 1, g: 1, b: 0, a: 0}
+    - _worldOffset: {r: 0, g: 0, b: 0, a: 0}

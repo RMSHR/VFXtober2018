@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 26_Elastic
+  m_Shader: {fileID: 4800000, guid: d737735a16bbd054997822dbbb304a58, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - _TessPhongStrength: 0
+    - _Tesselation: 20
+    - __dirty: 0
+    - _sm: 0
+    - _worldoffset: 0
+    - _worldsize: 0.1
+    m_Colors:
+    - _Albedo: {r: 0.3726415, g: 1, b: 0.5098817, a: 0}
+    - _Color0: {r: 0, g: 0.66519666, b: 1, a: 0}

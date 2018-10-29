@@ -19,6 +19,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs: []
     m_Floats:
+    - _EdgeLength: 15
     - _Float0: 30
     - _Float1: 0.02
     - _TessPhongStrength: 0.5
@@ -27,10 +28,12 @@ Material:
     - _fresnelBias: 0
     - _fresnelPower: 5
     - _fresnelScale: 0.25
+    - _normalOffset: 1
     - _power: 0.5
     - _worldOffset: -0.28
     - _worldScale: 5
+    - _worldYOffset: 0
     m_Colors:
     - _Albedo: {r: 1, g: 1, b: 1, a: 0}
-    - _EmissionColor: {r: 0, g: 0.46707344, b: 1, a: 0}
+    - _EmissionColor: {r: 0, g: 0.24399996, b: 1, a: 1}
     - _offset: {r: 1, g: 0, b: 1, a: 0}

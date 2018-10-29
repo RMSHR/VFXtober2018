@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 29_Circle
+  m_Shader: {fileID: 4800000, guid: e836b5784c8f3c74e81d486764645936, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Cutoff: 0.5
+    - _Emission: 2
+    - __dirty: 0
+    - _noiseScale: 2
+    - _noiseStep: 0.5
+    - _worldScale: 0.1
+    m_Colors:
+    - _Color0: {r: 0, g: 0.406, b: 0.51, a: 0}
+    - _circleParams: {r: 0.9, g: 0.01, b: 0, a: 0}
+    - _noiseSize: {r: 2, g: 2, b: 0, a: 0}

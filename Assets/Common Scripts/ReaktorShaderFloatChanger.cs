@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class ReaktorShaderFloatChanger : MonoBehaviour {
 
+    public Material targetMaterial;
     public Reaktion.Reaktor reaktor;
     public float minValue, maxValue;
     public string variableName = "";
@@ -20,10 +21,20 @@ public class ReaktorShaderFloatChanger : MonoBehaviour {
         if (variableName == "")
             return;
 
-        _renderer.material.SetFloat(
-            variableName,
-            Mathf.Lerp(minValue, maxValue, reaktor.Output)
-            );
+        if (targetMaterial == null)
+        {
+            _renderer.material.SetFloat(
+                variableName,
+                Mathf.Lerp(minValue, maxValue, reaktor.Output)
+                );
+        }
+        else
+        {
+            targetMaterial.SetFloat(
+                variableName,
+                Mathf.Lerp(minValue, maxValue, reaktor.Output)
+                );
+        }
 
     }
 }
